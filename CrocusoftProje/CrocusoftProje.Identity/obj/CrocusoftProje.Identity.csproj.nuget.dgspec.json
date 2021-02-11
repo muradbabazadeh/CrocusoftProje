@@ -1,0 +1,394 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\CrocusoftProje.Identity\\CrocusoftProje.Identity.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\Crocusoft.Domain\\CrocusoftProje.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\Crocusoft.Domain\\CrocusoftProje.Domain.csproj",
+        "projectName": "CrocusoftProje.Domain",
+        "projectPath": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\Crocusoft.Domain\\CrocusoftProje.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\Crocusoft.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\CrocusoftProje.SharedKernel.Domain\\CrocusoftProje.SharedKernel.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\CrocusoftProje.SharedKernel.Domain\\CrocusoftProje.SharedKernel.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\Crocusoft.SharedKernel.Infrastructure\\CrocusoftProje.SharedKernel.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\Crocusoft.SharedKernel.Infrastructure\\CrocusoftProje.SharedKernel.Infrastructure.csproj",
+        "projectName": "CrocusoftProje.SharedKernel.Infrastructure",
+        "projectPath": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\Crocusoft.SharedKernel.Infrastructure\\CrocusoftProje.SharedKernel.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\Crocusoft.SharedKernel.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\CrocusoftProje.SharedKernel.Domain\\CrocusoftProje.SharedKernel.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\CrocusoftProje.SharedKernel.Domain\\CrocusoftProje.SharedKernel.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\CrocusoftProje.Identity\\CrocusoftProje.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\CrocusoftProje.Identity\\CrocusoftProje.Identity.csproj",
+        "projectName": "CrocusoftProje.Identity",
+        "projectPath": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\CrocusoftProje.Identity\\CrocusoftProje.Identity.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\CrocusoftProje.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\Crocusoft.Domain\\CrocusoftProje.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\Crocusoft.Domain\\CrocusoftProje.Domain.csproj"
+              },
+              "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\Crocusoft.SharedKernel.Infrastructure\\CrocusoftProje.SharedKernel.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\Crocusoft.SharedKernel.Infrastructure\\CrocusoftProje.SharedKernel.Infrastructure.csproj"
+              },
+              "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\CrocusoftProje.Infrastructure\\CrocusoftProje.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\CrocusoftProje.Infrastructure\\CrocusoftProje.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\CrocusoftProje.Infrastructure\\CrocusoftProje.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\CrocusoftProje.Infrastructure\\CrocusoftProje.Infrastructure.csproj",
+        "projectName": "CrocusoftProje.Infrastructure",
+        "projectPath": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\CrocusoftProje.Infrastructure\\CrocusoftProje.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\CrocusoftProje.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\Crocusoft.Domain\\CrocusoftProje.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\Crocusoft.Domain\\CrocusoftProje.Domain.csproj"
+              },
+              "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\Crocusoft.SharedKernel.Infrastructure\\CrocusoftProje.SharedKernel.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\Crocusoft.SharedKernel.Infrastructure\\CrocusoftProje.SharedKernel.Infrastructure.csproj"
+              },
+              "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\CrocusoftProje.SharedKernel.Domain\\CrocusoftProje.SharedKernel.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\CrocusoftProje.SharedKernel.Domain\\CrocusoftProje.SharedKernel.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.1.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\CrocusoftProje.SharedKernel.Domain\\CrocusoftProje.SharedKernel.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\CrocusoftProje.SharedKernel.Domain\\CrocusoftProje.SharedKernel.Domain.csproj",
+        "projectName": "CrocusoftProje.SharedKernel.Domain",
+        "projectPath": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\CrocusoftProje.SharedKernel.Domain\\CrocusoftProje.SharedKernel.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\crocusoft proje\\CrocusoftProje\\CrocusoftProje.SharedKernel.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

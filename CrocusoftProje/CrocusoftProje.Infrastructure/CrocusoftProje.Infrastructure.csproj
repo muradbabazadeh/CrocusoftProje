@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.0.1" />
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+    <PackageReference Include="FluentValidation" Version="9.1.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Crocusoft.Domain\CrocusoftProje.Domain.csproj" />
+    <ProjectReference Include="..\Crocusoft.SharedKernel.Infrastructure\CrocusoftProje.SharedKernel.Infrastructure.csproj" />
+    <ProjectReference Include="..\CrocusoftProje.SharedKernel.Domain\CrocusoftProje.SharedKernel.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

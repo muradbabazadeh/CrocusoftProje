@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\Crocusoft.SharedKernel.Infrastructure\bin\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Infrastructure.deps.json
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\Crocusoft.SharedKernel.Infrastructure\bin\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Infrastructure.dll
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\Crocusoft.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\Crocusoft.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\Crocusoft.SharedKernel.Infrastructure\bin\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Domain.dll
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\Crocusoft.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Infrastructure.csprojAssemblyReference.cache
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\Crocusoft.SharedKernel.Infrastructure\bin\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Infrastructure.runtimeconfig.json
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\Crocusoft.SharedKernel.Infrastructure\bin\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Infrastructure.runtimeconfig.dev.json
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\Crocusoft.SharedKernel.Infrastructure\bin\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Infrastructure.pdb
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\Crocusoft.SharedKernel.Infrastructure\bin\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Domain.pdb
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\Crocusoft.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\Crocusoft.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Infrastructure.csproj.CopyComplete
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\Crocusoft.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Infrastructure.dll
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\Crocusoft.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Infrastructure.pdb
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\Crocusoft.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Infrastructure.genruntimeconfig.cache

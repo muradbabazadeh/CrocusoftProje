@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.SharedKernel.Domain\bin\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Domain.deps.json
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.SharedKernel.Domain\bin\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Domain.dll
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.SharedKernel.Domain\obj\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.SharedKernel.Domain\obj\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.SharedKernel.Domain\obj\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Domain.csprojAssemblyReference.cache
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.SharedKernel.Domain\bin\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Domain.pdb
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.SharedKernel.Domain\obj\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.SharedKernel.Domain\obj\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Domain.dll
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.SharedKernel.Domain\obj\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Domain.pdb

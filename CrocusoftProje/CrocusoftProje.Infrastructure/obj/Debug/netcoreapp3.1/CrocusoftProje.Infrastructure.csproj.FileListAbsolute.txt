@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.Infrastructure\bin\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Domain.dll
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.Infrastructure\obj\Debug\netcoreapp3.1\CrocusoftProje.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.Infrastructure\obj\Debug\netcoreapp3.1\CrocusoftProje.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.Infrastructure\bin\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Infrastructure.dll
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.Infrastructure\obj\Debug\netcoreapp3.1\CrocusoftProje.Infrastructure.csprojAssemblyReference.cache
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.Infrastructure\bin\Debug\netcoreapp3.1\CrocusoftProje.Domain.dll
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.Infrastructure\bin\Debug\netcoreapp3.1\CrocusoftProje.Infrastructure.deps.json
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.Infrastructure\bin\Debug\netcoreapp3.1\CrocusoftProje.Infrastructure.dll
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.Infrastructure\bin\Debug\netcoreapp3.1\CrocusoftProje.Infrastructure.pdb
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.Infrastructure\bin\Debug\netcoreapp3.1\CrocusoftProje.Domain.pdb
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.Infrastructure\bin\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Infrastructure.pdb
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.Infrastructure\bin\Debug\netcoreapp3.1\CrocusoftProje.SharedKernel.Domain.pdb
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.Infrastructure\obj\Debug\netcoreapp3.1\CrocusoftProje.Infrastructure.csproj.CopyComplete
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.Infrastructure\obj\Debug\netcoreapp3.1\CrocusoftProje.Infrastructure.dll
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.Infrastructure\obj\Debug\netcoreapp3.1\CrocusoftProje.Infrastructure.pdb
+C:\Users\User\Desktop\crocusoft proje\CrocusoftProje\CrocusoftProje.Infrastructure\obj\Debug\netcoreapp3.1\CrocusoftProje.Infrastructure.csproj.CoreCompileInputs.cache
